@@ -1,0 +1,40 @@
+{
+    "colours" : {
+        "dark": "#2F2E41",
+        "gray": "#3F3D56",
+        "light": "#F2F2F2",
+        "accent": "#6C63FF"
+    },
+    "fontSizes" : {
+        "h1": {
+            "min": 16,
+            "max": 22,
+            "weight": 400
+        },
+        "h2": {
+            "min": 40,
+            "max": 48,
+            "weight": 400
+        },
+        "h3": {
+            "min": 18,
+            "max": 24,
+            "weight": 400
+        },
+        "h4": {
+            "min": 14,
+            "max": 20,
+            "weight": 400
+        },
+        "p": {
+            "min": 12,
+            "max": 16,
+            "weight": 400
+        }
+    },
+    "screen" : {
+        "min": 320,
+        "max": 1080
+    }
+}
+

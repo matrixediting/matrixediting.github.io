@@ -1,0 +1,69 @@
+{
+    "splash" : {
+        "title" : "Need Help With Your English?",
+        "subtitle": "I am a qualified ESOL teacher and can assist you..."
+    },
+    "sections" : {
+
+        "services" : [
+            {
+                "name" : "Personal, Face-to-Face One-Hour Consultation",
+                "price" : "FREE",
+                "description" : "I can meet you in a city-centre cafe in Glasgow to discuss your editing/proofreading needs. Some students really appreciate this. I also like coffee!",
+                "image" : "undraw_co-workers_ujs6.svg",
+                "alt" : "People sitting at a table."
+            }, {
+                "name" : "Editing and Proofreading",
+                "price" : "£20 per hour (not PhD) // £25 per hour (PhD or equivalent)",
+                "description" : "Check for plagiarism. Correct spelling, punctuation and grammatical errors. Advise on structure, logic, etc. I will ask you for a short section (250 - 500 words) from your paper so I can determine the standard of your English and how many hours it is likely to take me to proofread the rest of your paper.",
+                "image": "undraw_file_searching_duff_cropped.svg",
+                "alt" : "Magnifying glass and paper."
+            }, {
+                "name" : "Coaching on How To Give Effective Presentations.",
+                "price" : "£15 per hour",
+                "description" : "Individuals or up to 3 people. I have over 25 years of public speaking experience, from small groups to 400 people.",
+                "image" : "undraw_candidate_ubwv.svg",
+                "alt" : "Person giving presentation to crowd."
+            }, {
+                "name" : "English Language Tuition and IELTS Preparation.",
+                "price" : "£25 per hour (PhD or equivalent)",
+                "description" : "I am a qualified ESOL teacher and offer personal and group tuition. Please contact me on mobile/WhatsApp using the details below.",
+                "image" : "undraw_certificate_343v.svg",
+                "alt" : "Teacher standing in front of blackboard."
+            }
+        ],
+    
+        "reviews" : [
+            {
+                "message": "\"Fraser proofread my Engineering Doctorate Thesis, and I was pleased with the result, as I had no English related correction from my viva. I can highly recommend his service because I was working with an enthusiastic, friendly, fast and very reliable person together. Thanks a lot.\"",
+                "author" : "Andreas, Germany"
+            }, {
+                "message": "\"My experience with Fraser has been incredible, he has helped me a lot. His enthusiasm, perfectionism and professionalism is stunning and is reflected in his work...I believe there is no better person than him for the realization of this work.\"",
+                "author" : "MDM, Spain"
+            }, {
+                "message": "\"A gentleman.\"",
+                "author" : "Yuna, Saudi Arabia"
+            }, {
+                "message": "\"Fraser is very professional. He reads the documents carefully and proves that everything makes sense. It really helps a lot.\"",
+                "author" : "Cristina, Spain"
+            }
+        ],
+    
+        "contacts" : [
+            {
+                "image": "whatsapp.svg",
+                "alt" : "Whatsapp logo.",
+                "text": "07539329566",
+                "link": "whatsapp://send?text=Hi Fraser!&phone=+07539329566"
+            },{
+                "image": "email.svg",
+                "alt" : "Gmail logo.",
+                "text": "frasereditor-at-gmail.com"
+            },{
+                "image": "facebook.svg",
+                "alt" : "Facebook logo.",
+                "text": "fraserproofreader"
+            }
+        ]
+    }
+}
