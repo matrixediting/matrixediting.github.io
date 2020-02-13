@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.4a35d8d4.chunk.js",
-    "main.js.map": "/static/js/main.4a35d8d4.chunk.js.map",
+    "main.js": "/static/js/main.56f14c48.chunk.js",
+    "main.js.map": "/static/js/main.56f14c48.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7708c96e.js",
     "runtime-main.js.map": "/static/js/runtime-main.7708c96e.js.map",
     "static/js/2.fb2f1d18.chunk.js": "/static/js/2.fb2f1d18.chunk.js",
     "static/js/2.fb2f1d18.chunk.js.map": "/static/js/2.fb2f1d18.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b0a32e26a9d85a54d45d4eb7c882ed2d.js": "/precache-manifest.b0a32e26a9d85a54d45d4eb7c882ed2d.js",
+    "precache-manifest.e8cecf99d92769aedb0ba90aacc1cd43.js": "/precache-manifest.e8cecf99d92769aedb0ba90aacc1cd43.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.fb2f1d18.chunk.js.LICENSE.txt": "/static/js/2.fb2f1d18.chunk.js.LICENSE.txt",
     "static/media/ExpandArrowDown.svg": "/static/media/ExpandArrowDown.08948531.svg",
@@ -46,6 +46,6 @@
   "entrypoints": [
     "static/js/runtime-main.7708c96e.js",
     "static/js/2.fb2f1d18.chunk.js",
-    "static/js/main.4a35d8d4.chunk.js"
+    "static/js/main.56f14c48.chunk.js"
   ]
 }
