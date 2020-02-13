@@ -1,7 +1,7 @@
 {
     "splash" : {
         "title" : "Need Help With Your English?",
-        "subtitle": "I am a qualified ESOL teacher and can assist you..."
+        "subtitle": "I am a qualified ESOL teacher and can assist you with..."
     },
     "sections" : {
 
@@ -19,13 +19,13 @@
                 "image": "undraw_file_searching_duff_cropped.svg",
                 "alt" : "Magnifying glass and paper."
             }, {
-                "name" : "Coaching on How To Give Effective Presentations.",
+                "name" : "Coaching on How To Give Effective Presentations",
                 "price" : "£15 per hour",
                 "description" : "Individuals or up to 3 people. I have over 25 years of public speaking experience, from small groups to 400 people.",
                 "image" : "undraw_candidate_ubwv.svg",
                 "alt" : "Person giving presentation to crowd."
             }, {
-                "name" : "English Language Tuition and IELTS Preparation.",
+                "name" : "English Language Tuition and IELTS Preparation",
                 "price" : "£25 per hour (PhD or equivalent)",
                 "description" : "I am a qualified ESOL teacher and offer personal and group tuition. Please contact me on mobile/WhatsApp using the details below.",
                 "image" : "undraw_certificate_343v.svg",
