@@ -54,7 +54,7 @@
                 "image": "whatsapp.svg",
                 "alt" : "Whatsapp logo.",
                 "text": "07539329566",
-                "link": "whatsapp://send?text=Hi Fraser!&phone=+07539329566"
+                "link": "whatsapp://send?text=Hi Fraser!&phone=+447539329566"
             },{
                 "image": "email.svg",
                 "alt" : "Gmail logo.",
